@@ -1,0 +1,2 @@
+getgenv().WaitTime = 420 -- o tantos de segundo q tu qr na sua run
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sunexn/standsawakening/main/uncanny.lua",true))()
